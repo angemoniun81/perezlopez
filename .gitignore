@@ -1,1 +1,10 @@
 .oculto.txt
+
+
+
+*.env
+*.local
+*.config
+
+
+*.jpg
